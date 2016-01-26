@@ -15,6 +15,7 @@
     "logger"
   ],
   "dependencies": {
+    "net-browserify": "^0.2.2",
     "CBuffer": "^0.1.5",
     "lodash": "2.4.1"
   },
